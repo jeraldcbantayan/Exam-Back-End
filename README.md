@@ -7,7 +7,7 @@ For the frontend to work
 2. then type  "npm start"
 
 For back end
-1. cd into the "laravel\user-management-system"
+1. cd into the "user-management-system"
 2. Rename .env.example file to .env then set DB_DATABASE=users-db
 3. create users-db in phpmyadmin
 4. type "php artisan key:generate"
